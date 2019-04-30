@@ -12,4 +12,6 @@ After creating the Table, insert the Values in it by using the commands mentione
 
 Now, You can perform your desired operation on it by using SQL Commands.
 
+</BR> Licensed under [MIT License](LICENSE).
+
 
