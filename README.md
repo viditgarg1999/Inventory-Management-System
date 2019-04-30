@@ -1,6 +1,4 @@
 # Inventory-Management-System
-
-# Inventory-Management-System
 **Database Management System Project on the Inventory Management System by using SQL**
 
 I have Shared the report file of my Database management System project which i have implemented using Structured Query Language(SQL). This file also contains one ER- Diagram for the better understanding of the Project.
